@@ -60,14 +60,14 @@ export default function Home() {
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="event-card">
-                            <img src={image1} alt="image"/>
+                            <img src={image2} alt="image"/>
                             <p>Event Name</p>
                             <p className="date">Date</p>
                         </div>
                     </SwiperSlide>
                     <SwiperSlide>
                         <div className="event-card">
-                            <img src={image1} alt="image"/>
+                            <img src={image3} alt="image"/>
                             <p>Event Name</p>
                             <p className="date">Date</p>
                         </div>
